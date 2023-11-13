@@ -1,0 +1,56 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "16vGn3g6YpoT026GuaNmgHfY8W00Sm2j0",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    },
+    {
+      "fileId": "172JgS663BA0EpEiXX4rJ_PC3ynmWXjgS",
+      "contentType": "text/html",
+      "name": "Viet.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    },
+    {
+      "fileId": "1KH6-HA0gLs_YrBi2hAjpVe2D5RMWq197",
+      "contentType": "text/html",
+      "name": "Charles.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    },
+    {
+      "fileId": "16QjSR3422rTxJoxbZ5pwZJkgjA7Zj2tg",
+      "contentType": "text/html",
+      "name": "Eleigh.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    },
+    {
+      "fileId": "1lUwLC6Dalzd2NQ_1ak5oSIqtqsUFCuN1",
+      "contentType": "text/html",
+      "name": "Zane.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    },
+    {
+      "fileId": "1u0-CxXEpM-LmE4GtnpmhkkGwu5qbrJUR",
+      "contentType": "text/html",
+      "name": "Sources.html",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "1syx3FE3-qsRCKckMC_lZ9P9BLTWzBXB_",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "1gakU0QYrduW8lQRMkJPe7sCA-QA3mE5b",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "1mg41HLpAvrTdT4Ly0pCtAsmOIr9A6lg7/"
+    }
+  ]
+}
